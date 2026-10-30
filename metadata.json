@@ -1,0 +1,6 @@
+{
+  "name": "PrestaFácil - Economía Colaborativa Universitaria",
+  "description": "Plataforma de economía colaborativa que conecta estudiantes para prestar, intercambiar y alquilar materiales universitarios de forma segura y sostenible.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
